@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salweyar Patel
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning ASPN.NET
-- 💞️ I’m looking to collaborate on any Web base project
+- 👀 I’m interested in building next generation Development products
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on any software development projects
 - 📫 You can reach me at salweyarpatel@gmail.com
 
 <!---
