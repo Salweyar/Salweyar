@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salweyar Patel
 - 👀 I’m interested in building next generation Development products
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning .NET Blazor Server Apps
 - 💞️ I’m looking to collaborate on any software development projects
 - 📫 You can reach me at salweyarpatel@gmail.com
 
